@@ -1,6 +1,6 @@
 # Add New Goal App
 
-Tech Stack: React Native, Expo, JavaScript.
+Tech Stack: JavaScript, React, React Native, Expo, etc.
 
 ---------------------------------------------
 
